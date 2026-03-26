@@ -31,6 +31,7 @@ Pseudo-Labeling: Unlabeled data is leveraged using the two-stage selection mecha
 🙏 **Acknowledgments**
 
 Our project references the codes in the following repositories:
+
 fscil(https://github.com/xyutao/fscil)
 
 BIDSL (https://github.com/LinglanZhao/BiDistFSCIL?tab=readme-ov-file)
